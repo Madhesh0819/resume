@@ -1,0 +1,28 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Madhesh A - Portfolio website with Vercel Speed Insights",
+  "main": "1.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "test": "echo \"No tests configured for static HTML site\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhesh0819/resume.git"
+  },
+  "keywords": [
+    "portfolio",
+    "resume",
+    "speed-insights"
+  ],
+  "author": "Madhesh A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madhesh0819/resume/issues"
+  },
+  "homepage": "https://github.com/Madhesh0819/resume#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
